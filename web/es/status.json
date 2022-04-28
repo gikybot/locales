@@ -1,0 +1,7 @@
+{
+  "title": "Estado de los servicios",
+  "operational": "Operacional",
+  "interrupted": "Interrumpido",
+  "offline": "Offline",
+  "clusters": "Clusters"
+}
