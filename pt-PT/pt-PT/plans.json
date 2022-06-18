@@ -1,0 +1,9 @@
+{
+  "faq": "Perguntas e respostas mais frequentes",
+  "faq_payment_methods": "Quais métodos de pagamento são suportados?",
+  "faq_payment_methods_description": "Aceitamos cartão de débito/crédito e PayPal.",
+  "faq_secure": "Meu pagamento é seguro?",
+  "faq_secure_description": "Sim, nunca temos acesso às suas informações. Os pagamentos em cartão de crédito/débito são processados através do Stripe, um processador de pagamento confiável por milhões de empresas em todo o mundo e protegido com tecnologias de ponta. Já os pagamentos com PayPal são processados pelo Patreon.",
+  "faq_money": "Para onde vai o meu dinheiro?",
+  "faq_money_description": "O dinheiro recebido vai diretamente para a melhoria dos sistemas do Giky e pagar pagar as taxas de hospedagem."
+}
